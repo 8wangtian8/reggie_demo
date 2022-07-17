@@ -24,4 +24,4 @@ mybatis-plus:
     db-config:
       id-type: ASSIGN_ID
 reggie:
-  path: D:\img\
+  path: C:\Users\30862\Desktop\百度网盘下载\瑞吉外卖-资料\1 瑞吉外卖项目\资料\转存到指定位置\
